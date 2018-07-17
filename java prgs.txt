@@ -1,0 +1,27 @@
+String Porgrams
+1. Compare String
+2. Reverse String
+3. Sub String of a string
+4. Integer to String
+5. Char Array to String and vice versa
+6. Stack ____ to string
+7. Search String using Index of Array
+8. String SPLIT
+9. Convert date string from one format to another using simple    date format.
+10. String Tokenizer
+11. String Buffer
+12. Palindrome
+13.Change case, length, compare, concat, reverse, trim, remove char, reverse string array......
+
+
+ARRAY PROGRAMS
+1. Patterns program
+2. Strings, ________
+3. Find Largest & Smallest No in an arrary.
+4. Calculate avg value of array elements.
+5. Char array to string & vice versa.
+6. Reverse String array
+7. Sort String Array
+8. Array Copy
+9. 2D Array
+10. Delete & add element from array.
